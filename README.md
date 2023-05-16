@@ -1,6 +1,8 @@
 # m_player
 
 A new Flutter project.
+![Screenshot_1684216265](https://github.com/hamid-alam/m_player/assets/125123012/9d3dbb4b-7a43-43f3-8231-0d5b0355b9da)
+![Screenshot_1684216258](https://github.com/hamid-alam/m_player/assets/125123012/20f44b75-5dd9-478f-8c0c-29aad51d6a05)
 
 ## Getting Started
 
